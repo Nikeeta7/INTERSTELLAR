@@ -1,4 +1,4 @@
-# STELLAR
+# INTERSTELLAR
 PROBLEM STATEMENT -
 
 Space missions (Moon, Mars, deep-space) face two critical challenges:
